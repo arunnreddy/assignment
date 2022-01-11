@@ -65,9 +65,11 @@ function App() {
           "price": "₹ 80"
       }
       ]
+      
   return (
     <div className="App">
       <Movie load={data} />
+    <h1>hello</h1>
 
     
     </div>
