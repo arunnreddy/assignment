@@ -31,6 +31,7 @@ export const Movie = (props:MovieProps) => {
     
     )
 }
+
 </div>
 <div className="second">
     <h1><Icon.Shop/><br/>shop</h1>
