@@ -1,0 +1,21 @@
+.first{
+    margin-left:22%;
+    width:60%;
+    margin-top:3%
+}
+.second{
+    display:flex;
+    justify-content:space-around;
+    background-color:#ff4081;
+    width:92%;
+    height:9%;
+    margin-bottom:2%
+    
+}
+.second >h1{
+    margin:1%;
+    padding:2%;
+    color:white;
+    font-size:x-large
+    
+}
